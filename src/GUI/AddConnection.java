@@ -1,4 +1,4 @@
-package Week8to11;
+package GUI;
 import javax.swing.*;
 import java.io.File;
 import java.io.FileWriter;
@@ -118,8 +118,8 @@ class AddConnectionFrame {
 //          Storing selected item from combobox
             assert route1Name != null;
             if (!(route1Name.equals(route2name))){
-                int firstIndex = Week8to11.linearSearch.getIndex(addedroutes,route1Name);
-                int secondIndex = Week8to11.linearSearch.getIndex(addedroutes, route2name);
+                int firstIndex = GUI.linearSearch.getIndex(addedroutes,route1Name);
+                int secondIndex = GUI.linearSearch.getIndex(addedroutes, route2name);
                 StringBuilder builder = new StringBuilder();
 
 //             Calling graph object and storing connection data to adjacency matrix
@@ -199,8 +199,8 @@ class AddConnectionFrame {
             route2name = (String) combobox2.getSelectedItem();
             assert route1Name != null;
             if (!(route1Name.equals(route2name))){
-                int firstIndex = Week8to11.linearSearch.getIndex(addedroutes,route1Name);
-                int secondIndex = Week8to11.linearSearch.getIndex(addedroutes, route2name);
+                int firstIndex = GUI.linearSearch.getIndex(addedroutes,route1Name);
+                int secondIndex = GUI.linearSearch.getIndex(addedroutes, route2name);
                 int[] previousPath = graphObj.shortestPath(firstIndex);
                 StringBuilder path = new StringBuilder();
                 String pathDistance = "";

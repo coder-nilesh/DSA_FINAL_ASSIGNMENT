@@ -1,4 +1,4 @@
-package questions;
+package DSA_1_TO_8;
 
 public class week7 {
     static class Node {

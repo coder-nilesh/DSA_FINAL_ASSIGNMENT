@@ -1,4 +1,4 @@
-package questions;
+package DSA_1_TO_8;
 
 import java.math.BigInteger;
 import java.util.*;

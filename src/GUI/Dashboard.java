@@ -1,4 +1,4 @@
-package Week8to11;
+package GUI;
 
 import javax.swing.*;
 import java.awt.*;

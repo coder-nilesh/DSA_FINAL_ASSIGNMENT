@@ -1,4 +1,4 @@
-package Week8to11;
+package GUI;
 //Linear Search
 public  class linearSearch {
 //    Return index of data in given list if available

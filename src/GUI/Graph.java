@@ -1,4 +1,4 @@
-package Week8to11;
+package GUI;
 public class Graph {
     int vertices;
     int[][] adjacencyMatrix;

@@ -1,4 +1,4 @@
-package questions;
+package DSA_1_TO_8;
 
 public class Week6 {
     int matrix[][];

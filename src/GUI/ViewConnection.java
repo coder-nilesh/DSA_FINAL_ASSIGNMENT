@@ -1,4 +1,4 @@
-package Week8to11;
+package GUI;
 
 import java.awt.*;
 import java.io.File;

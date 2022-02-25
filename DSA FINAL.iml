@@ -10,7 +10,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../jarfile 1/jarfile/jung-api-2.1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jarfile/jar_files (1)/org.apache.servicemix.bundles.collections-generic-4.01_1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -19,7 +19,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../jarfile 1/jarfile/guava-31.0.1-jre.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jarfile/jar_files (2)/jung-api-2.1.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -28,7 +28,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../jarfile 1/jarfile/jung-visualization-2.0.jar/jung-visualization-2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jarfile/jung-algorithms-2.0.jar (1)/jung-algorithms-2.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -37,7 +37,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../jarfile 1/jarfile/jung-graph-impl-2.0.jar/jung-graph-impl-2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jarfile/jung-graph-impl-2.0.jar/jung-graph-impl-2.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -46,7 +46,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../jarfile 1/jarfile/jung-algorithms-2.0.jar (1)/jung-algorithms-2.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../jarfile/jung-visualization-2.0.jar/jung-visualization-2.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -55,7 +55,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../jarfile 1/jarfile/jar_files (1)/org.apache.servicemix.bundles.collections-generic-4.01_1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../guava-31.0.1-jre.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
